@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maktabkhooneh-todo/static/css/main.93b4863b.css",
+    "main.js": "/maktabkhooneh-todo/static/js/main.5da66277.js",
+    "index.html": "/maktabkhooneh-todo/index.html",
+    "main.93b4863b.css.map": "/maktabkhooneh-todo/static/css/main.93b4863b.css.map",
+    "main.5da66277.js.map": "/maktabkhooneh-todo/static/js/main.5da66277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b4863b.css",
+    "static/js/main.5da66277.js"
+  ]
+}

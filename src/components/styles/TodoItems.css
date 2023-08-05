@@ -1,0 +1,29 @@
+:root {
+  --primary-color: #143A52;
+  --secondry-color: #6E828A;
+  --third-color: #CDE3EB;
+}
+
+.tasksContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0;
+  gap: 3px;
+}
+
+.taskName {
+  font-size: 1.3rem;
+  color: var(--third-color);
+  text-transform: capitalize;
+}
+
+.deleteTask {
+  padding: 0.3rem 1rem;
+  margin-left: 0.5rem;
+  border: none;
+  outline: none;
+  background-color: var(--third-color);
+  color: var(--primary-color);
+  border-radius: 3px;
+}
